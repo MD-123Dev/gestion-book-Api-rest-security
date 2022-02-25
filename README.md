@@ -21,6 +21,20 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
+## Digarme : 
+
+![bookgestionimage](https://user-images.githubusercontent.com/43389513/155716995-0129c703-3b25-4cae-855e-61fa5b446dd1.PNG)
+
+
+## Project Components : 
+
+ - CRUD 
+ - Pagination 
+ - Store image 
+ - Authentification with Passport 
+ - login / register
+  
+
 ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
