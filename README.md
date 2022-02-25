@@ -21,11 +21,6 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Digarme : 
-
-![bookgestionimage](https://user-images.githubusercontent.com/43389513/155716995-0129c703-3b25-4cae-855e-61fa5b446dd1.PNG)
-
-
 ## Project Components : 
 
  - CRUD 
@@ -34,6 +29,11 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
  - Authentification with Passport 
  - login / register
   
+  
+## Digarme : 
+
+![bookgestionimage](https://user-images.githubusercontent.com/43389513/155716995-0129c703-3b25-4cae-855e-61fa5b446dd1.PNG)
+
 
 ## Learning Laravel
 
